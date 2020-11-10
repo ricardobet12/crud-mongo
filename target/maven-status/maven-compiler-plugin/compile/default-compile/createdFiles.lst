@@ -1,0 +1,5 @@
+com/dentistapp/dentistapp/repository/UserRepository.class
+com/dentistapp/dentistapp/document/UserProfile.class
+com/dentistapp/dentistapp/document/User.class
+com/dentistapp/dentistapp/web/UserController.class
+com/dentistapp/dentistapp/DentistappApplication.class
